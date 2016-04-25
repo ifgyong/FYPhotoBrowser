@@ -22,4 +22,4 @@ dataArray 是imageUrlArray ，index 是点击图片的索引，FromView 是点�
 
 
 
-博客地址：http://blog.csdn.net/ios_and_swift
+博客地址：http://fgyong.cn
